@@ -1,0 +1,33 @@
+# Algoritmos
+
+Conjunto das regras e procedimentos lógicos perfeitamente definidos que levam 
+à solução de um problema em um número finito de etapas.
+
+É como se fosse um passo a passo para resolver um 
+problema, com instruções simples e exatas.
+
+
+# Pra que servem?
+
+Algoritmos pode ser utilizados em diversas situações que envolvem raciocínio 
+lógico e organização ou otimização de processos. Quando nos deparamos com uma 
+receita culinária, por exemplo, estamos vendo um algoritmo rudimentar, cuja 
+função é instruir o cozinheiro a utilizar os ingredientes, seguindo os passos 
+para fazer o prato.
+
+
+# Como funciona um algoritmo? 
+
+Um algoritmo funciona da seguinte forma: uma informação de entrada (input) passa 
+por diversas etapas que poderão alterar seu estado, gerando uma informação de 
+saída (output)
+
+
+Input
+Output - Print
+
+
+# Problema - Somar números
+
+def soma(primeiro_numero, segundo_numero):
+  return primeiro_numero + segundo_numero
